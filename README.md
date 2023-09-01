@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @27atharva Kirve
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on Intresting Projects
+  - 💥 I’m looking to collaborate on Intresting Projects
 - 📫 How to reach me https://in.linkedin.com/in/atharva-kirve-0595591b7
 
 <!---
